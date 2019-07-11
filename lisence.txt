@@ -1,5 +1,11 @@
 hello 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 day 2     
 
+<<<<<<< HEAD
 i hope this isnt much a problem
+=======
+just some updates, on a branch
+
+this is bound to cause trouble!
+>>>>>>> verybad
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          hello hello 
